@@ -1,0 +1,8 @@
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.de/de/weather/Berlin/'>Wetter Berlin</a><a href='https://meteoprog.de/de/weather/Schwerin/'>Wetter Schwerin</a><a href='https://meteoprog.de/de/weather/Duesseldorf/'>Wetter Düsseldorf</a></div><script>
+url='https://www.meteoprog.de/informers/weather-now.html?cities%5B%5D=Berlin&bottomcities%5B%5D=Schwerin&bottomcities%5B%5D=Duesseldorf&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
+key1='b5d3a36e04d1019753f61c42102d718db0bee5fa';
+key2='d9cd521756e97d0683a3619f901ff7e1544f58b2';
+var script = document.createElement('script');
+script.src = 'https://www.meteoprog.de/js/new_design/weather-informer.js';
+document.body.appendChild(script);
+</script>
