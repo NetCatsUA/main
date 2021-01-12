@@ -1,0 +1,8 @@
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.md/ru/weather/Chisinau/'>Погода в Кишинеу</a><a href='https://meteoprog.md/ru/weather/Basarabeasca/'>Погода в Бессарабке</a><a href='https://meteoprog.md/ru/weather/Soroki/'>Погода в Сороки</a></div><script>
+url='https://www.meteoprog.md/informers/weather-now.html?cities%5B%5D=Chisinau&bottomcities%5B%5D=Basarabeasca&bottomcities%5B%5D=Soroki&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
+key1='53bbabbb33501b77209ef78dc9939035853d2e4b';
+key2='52bd64826c52db52588ded392efb191f11356a41';
+var script = document.createElement('script');
+script.src = 'https://www.meteoprog.md/js/new_design/weather-informer.js';
+document.body.appendChild(script);
+</script>
