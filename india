@@ -1,0 +1,8 @@
+<div id='meteoprog-informer' style='width:351px; height:173px;'><a href='https://meteoprog.in/en/weather/Newdelhi/'>Weather in New Delhi</a><a href='https://meteoprog.in/en/weather/Shillong/'>Weather in Shillong</a><a href='https://meteoprog.in/en/weather/Madras/'>Weather in Madras</a></div><script>
+url='https://www.meteoprog.in/informers/weather-now.html?cities%5B%5D=Newdelhi&bottomcities%5B%5D=Shillong&bottomcities%5B%5D=Madras&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=336&avatar=0';
+key1='7bfc9b9df15b9416be326885a688f1ce5baa2755';
+key2='c7a22ff55ffaee984be1d2be73c015b0e48ac943';
+var script = document.createElement('script');
+script.src = 'https://www.meteoprog.in/js/new_design/weather-informer.js';
+document.body.appendChild(script);
+</script>
