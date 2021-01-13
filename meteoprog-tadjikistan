@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com/ru/weather/Dushanbe/'>Погода в Душанбе</a><a href='https://meteoprog.com/ru/weather/Kaliningrad/'>Погода в Калининграде</a><a href='https://meteoprog.com/ru/weather/Murmansk/'>Погода в Мурманске</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com/ru/weather/Dushanbe/'>Погода в Душанбе</a></div><script>
 url='https://www.meteoprog.com/informers/weather-now.html?cities%5B%5D=Dushanbe&bottomcities%5B%5D=Kaliningrad&bottomcities%5B%5D=Murmansk&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='1037e789999b8cd0eed6066efda21ac7c4de5e62';
 key2='c1e8faf4ecfc703015f90e010258c42f595f881b';
