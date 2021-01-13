@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.it/it/weather/Rome/'>Meteo Roma</a><a href='https://meteoprog.it/it/weather/Genova/'>Meteo Genova</a><a href='https://meteoprog.it/it/weather/Potenza/'>Meteo Potenza</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.it/it/weather/Rome/'>Meteo Roma</a></div><script>
 url='https://www.meteoprog.it/informers/weather-now.html?cities%5B%5D=Rome&bottomcities%5B%5D=Genova&bottomcities%5B%5D=Potenza&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='3143c5c78ef7587ded9ef2fe41a9a834c9811181';
 key2='ade20e3bdfbe2bee0616e681656e1d5f90bb7814';
