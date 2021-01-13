@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.by/ru/weather/Minsk/'>Погода в Минске</a><a href='https://meteoprog.by/ru/weather/Gomel/'>Погода в Гомеле</a><a href='https://meteoprog.by/ru/weather/Vitebsk/'>Погода в Витебске</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.by/ru/weather/Minsk/'>Погода в Минске</a></div><script>
 url='https://www.meteoprog.by/informers/weather-now.html?cities%5B%5D=Minsk&bottomcities%5B%5D=Gomel&bottomcities%5B%5D=Vitebsk&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='4d86c7359ced31cdd9198526546d4a5eb6acb429';
 key2='a7bd0971d698c0ba1903c3e28447a54d099a2860';
