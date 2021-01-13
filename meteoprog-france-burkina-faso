@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.fr/fr/weather/Portonovo/'>Temps à Porto-Novo</a><a href='https://meteoprog.fr/fr/weather/Caen/'>Temps à Caen</a><a href='https://meteoprog.fr/fr/weather/Amen/'>Temps à Amiens</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.fr/fr/weather/Portonovo/'>Temps à Porto-Novo</a></div><script>
 url='https://www.meteoprog.fr/informers/weather-now.html?cities%5B%5D=Portonovo&bottomcities%5B%5D=Caen&bottomcities%5B%5D=Amen&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='0d2f0f3c56a4e4472aff7f21a59426c1713bf0bc';
 key2='eac38ec95ae04b2aa73c4f3dcfdb35f59c4194f9';
