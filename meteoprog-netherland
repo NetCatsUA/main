@@ -1,8 +1,8 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com.pt/pt/weather/Lisbon/'>O tempo em Lisboa</a><a href='https://meteoprog.com.pt/pt/weather/Vilareal/'>O tempo em Vila Real</a><a href='https://meteoprog.com.pt/pt/weather/Bragansa/'>O tempo em Bragança</a></div><script>
-url='https://www.meteoprog.com.pt/informers/weather-now.html?cities%5B%5D=Lisbon&bottomcities%5B%5D=Vilareal&bottomcities%5B%5D=Bragansa&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
-key1='313e2abce1a53fd9e3f0097159c4ce1b8df4a82a';
-key2='d16f6eb1242561e8a2f678874f9a80abb92beb51';
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.nl/nl/weather/Amsterdam-saskatchewan/'>Weer in Amsterdam</a><a href='https://meteoprog.nl/nl/weather/Utrecht/'>Weer in Utrecht</a><a href='https://meteoprog.nl/nl/weather/Zwolle/'>Weer in Zwolle</a></div><script>
+url='https://www.meteoprog.nl/informers/weather-now.html?cities%5B%5D=Amsterdam-saskatchewan&bottomcities%5B%5D=Utrecht&bottomcities%5B%5D=Zwolle&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
+key1='f1fb3d0d7ef1ee6c4a85b5a413d8adb6b6e59110';
+key2='7107fc90836f53ed1a6764840b68635cc24dfed4';
 var script = document.createElement('script');
-script.src = 'https://www.meteoprog.com.pt/js/new_design/weather-informer.js';
+script.src = 'https://www.meteoprog.nl/js/new_design/weather-informer.js';
 document.body.appendChild(script);
 </script>
