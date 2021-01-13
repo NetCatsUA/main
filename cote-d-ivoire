@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.fr/fr/weather/Jamusukro/'>Temps à Jamousoukro</a><a href='https://meteoprog.fr/fr/weather/Lyon/'>Temps à Lyon</a><a href='https://meteoprog.fr/fr/weather/Limoges/'>Temps à Limoges</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.fr/fr/weather/Jamusukro/'>Temps à Jamousoukro</a></div><script>
 url='https://www.meteoprog.fr/informers/weather-now.html?cities%5B%5D=Jamusukro&bottomcities%5B%5D=Lyon&bottomcities%5B%5D=Limoges&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='e4833881ff5bc613e69d1f2d047185fdfa58a2a0';
 key2='b18fc6173353c05a70f6f58fb9e429867294ee2f';
