@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com.br/pt/weather/Riodejaneiro/'>O tempo em Rio de Janeiro</a><a href='https://meteoprog.com.br/pt/weather/Saopaulo/'>O tempo em São Paulo</a><a href='https://meteoprog.com.br/pt/weather/Recife/'>O tempo em Recife</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com.br/pt/weather/Riodejaneiro/'>O tempo em Rio de Janeiro</a></div><script>
 url='https://www.meteoprog.com.br/informers/weather-now.html?cities%5B%5D=Riodejaneiro&bottomcities%5B%5D=Saopaulo&bottomcities%5B%5D=Recife&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='de7c840b033e04df7e5297ea9c2de89bb292031b';
 key2='0b3aff797780a46a2e711ec1c1568912c3ef1e66';
