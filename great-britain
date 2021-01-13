@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.co.uk/en/weather/London/'>Weather in London</a><a href='https://meteoprog.co.uk/en/weather/Newcastlegbr/'>Weather in Newcastle</a><a href='https://meteoprog.co.uk/en/weather/Cambridgegbr/'>Weather in Cambridge</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.co.uk/en/weather/London/'>Weather in London</a></div><script>
 url='https://www.meteoprog.co.uk/informers/weather-now.html?cities%5B%5D=London&bottomcities%5B%5D=Newcastlegbr&bottomcities%5B%5D=Cambridgegbr&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='92428dfe9684526d5c87666757601312a48d436a';
 key2='f010b4b6245b43f1f0cd50da1c25684c7ae535aa';
