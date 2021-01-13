@@ -1,0 +1,8 @@
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com.pt/pt/weather/Maputo/'>O tempo em Maputo</a><a href='https://meteoprog.com.pt/pt/weather/Aveiro/'>O tempo em Aveiro</a><a href='https://meteoprog.com.pt/pt/weather/Evora/'>O tempo em Évora</a></div><script>
+url='https://www.meteoprog.com.pt/informers/weather-now.html?cities%5B%5D=Maputo&bottomcities%5B%5D=Aveiro&bottomcities%5B%5D=Evora&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
+key1='3e1d2b9169748ab6adfd4c190d92f04f7dd31cf2';
+key2='02eba7c42b43e67de96669b5dc497cb20675fc3e';
+var script = document.createElement('script');
+script.src = 'https://www.meteoprog.com.pt/js/new_design/weather-informer.js';
+document.body.appendChild(script);
+</script>
