@@ -1,8 +1,8 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.nl/nl/weather/Amsterdam/'>Weer in Amsterdam</a></div><script>
-url='https://www.meteoprog.nl/informers/weather-now.html?cities%5B%5D=Amsterdam&bottomcities%5B%5D=Hertogenbosch&bottomcities%5B%5D=Leeuwarden&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
-key1='5699902909c907df3b86512adeb46e259a0c2865';
-key2='331a3a20c6c8435dd797df8e0c76ab4c03e603f0';
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com.pt/pt/weather/Lisbon/'>O tempo em Lisboa</a><a href='https://meteoprog.com.pt/pt/weather/Vilareal/'>O tempo em Vila Real</a><a href='https://meteoprog.com.pt/pt/weather/Bragansa/'>O tempo em Bragança</a></div><script>
+url='https://www.meteoprog.com.pt/informers/weather-now.html?cities%5B%5D=Lisbon&bottomcities%5B%5D=Vilareal&bottomcities%5B%5D=Bragansa&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
+key1='313e2abce1a53fd9e3f0097159c4ce1b8df4a82a';
+key2='d16f6eb1242561e8a2f678874f9a80abb92beb51';
 var script = document.createElement('script');
-script.src = 'https://www.meteoprog.nl/js/new_design/weather-informer.js';
+script.src = 'https://www.meteoprog.com.pt/js/new_design/weather-informer.js';
 document.body.appendChild(script);
 </script>
