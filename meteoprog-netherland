@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.nl/nl/weather/Amsterdam/'>Weer in Amsterdam</a><a href='https://meteoprog.nl/nl/weather/Hertogenbosch/'>Weer in Hertogenbosch</a><a href='https://meteoprog.nl/nl/weather/Leeuwarden/'>Weer in Leeuwarden</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.nl/nl/weather/Amsterdam/'>Weer in Amsterdam</a></div><script>
 url='https://www.meteoprog.nl/informers/weather-now.html?cities%5B%5D=Amsterdam&bottomcities%5B%5D=Hertogenbosch&bottomcities%5B%5D=Leeuwarden&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='5699902909c907df3b86512adeb46e259a0c2865';
 key2='331a3a20c6c8435dd797df8e0c76ab4c03e603f0';
