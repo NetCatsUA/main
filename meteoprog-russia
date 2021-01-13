@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com/ru/weather/Moscow/'>Погода в Москве</a><a href='https://meteoprog.com/ru/weather/Mahackala/'>Погода в Махачкале</a><a href='https://meteoprog.com/ru/weather/Irkutsk/'>Погода в Иркутске</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com/ru/weather/Moscow/'>Погода в Москве</a></div><script>
 url='https://www.meteoprog.com/informers/weather-now.html?cities%5B%5D=Moscow&bottomcities%5B%5D=Mahackala&bottomcities%5B%5D=Irkutsk&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='2fbedcc49f4111ed01a53831d5232ce290874aa8';
 key2='faa545cadde5a1b237809322c6c807301c4e73d5';
