@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com.pt/pt/weather/Lisbon/'>O tempo em Lisboa</a><a href='https://meteoprog.com.pt/pt/weather/Portalegre/'>O tempo em Portalegre</a><a href='https://meteoprog.com.pt/pt/weather/Castelobranco/'>O tempo em Castelo Branco</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com.pt/pt/weather/Lisbon/'>O tempo em Lisboa</a></div><script>
 url='https://www.meteoprog.com.pt/informers/weather-now.html?cities%5B%5D=Lisbon&bottomcities%5B%5D=Portalegre&bottomcities%5B%5D=Castelobranco&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='c5e4f7066abfd55754015261a6706802e8505516';
 key2='3768340d1b5ec2665636593e2acf12203c5a9436';
