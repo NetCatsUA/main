@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.uz/ru/weather/Tashkent/'>Погода в Ташкенте</a><a href='https://meteoprog.uz/ru/weather/Andijon/'>Погода в Андижане</a><a href='https://meteoprog.uz/ru/weather/Guliston/'>Погода в Гулистоне</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.uz/ru/weather/Tashkent/'>Погода в Ташкенте</a></div><script>
 url='https://www.meteoprog.uz/informers/weather-now.html?cities%5B%5D=Tashkent&bottomcities%5B%5D=Andijon&bottomcities%5B%5D=Guliston&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='966909a1e4920e922f11cb4455a31558a52698f4';
 key2='b83cba36dc20513389daa230cf4ffdc4282dec4b';
