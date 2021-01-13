@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.es/es/weather/Madrid/'>El Tiempo en Madrid</a><a href='https://meteoprog.es/es/weather/Zaragoza/'>El Tiempo en Zaragoza</a><a href='https://meteoprog.es/es/weather/Bilbao/'>El Tiempo en Bilbao</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.es/es/weather/Madrid/'>El Tiempo en Madrid</a></div><script>
 url='https://www.meteoprog.es/informers/weather-now.html?cities%5B%5D=Madrid&bottomcities%5B%5D=Zaragoza&bottomcities%5B%5D=Bilbao&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='619ab3fdff6d084af3db2eb219677aee86c0208b';
 key2='f80db2bc0282e3b60fa45a72b9398e25068cb917';
