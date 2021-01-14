@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com/ru/weather/Ashhabad/'>Погода в Ашхабаде</a><a href='https://meteoprog.com/ru/weather/Magas/'>Погода в Магасе</a><a href='https://meteoprog.com/ru/weather/Kaliningrad/'>Погода в Калининграде</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.com/ru/weather/Ashhabad/'>Погода в Ашхабаде</a></div><script>
 url='https://www.meteoprog.com/informers/weather-now.html?cities%5B%5D=Ashhabad&bottomcities%5B%5D=Magas&bottomcities%5B%5D=Kaliningrad&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='5caaf7bb6b7dfa5713fc2258b5c98577db696a8b';
 key2='def89f7b2c0b9d5a8c34a8796ebd9bca7983b03c';
