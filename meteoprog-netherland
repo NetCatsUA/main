@@ -1,4 +1,4 @@
-<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.nl/nl/weather/Amsterdam-saskatchewan/'>Weer in Amsterdam</a><a href='https://meteoprog.nl/nl/weather/Utrecht/'>Weer in Utrecht</a><a href='https://meteoprog.nl/nl/weather/Zwolle/'>Weer in Zwolle</a></div><script>
+<div id='meteoprog-informer' style='width:315px; height:173px;'><a href='https://meteoprog.nl/nl/weather/Amsterdam-saskatchewan/'>Weer in Amsterdam</a></div><script>
 url='https://www.meteoprog.nl/informers/weather-now.html?cities%5B%5D=Amsterdam-saskatchewan&bottomcities%5B%5D=Utrecht&bottomcities%5B%5D=Zwolle&background=ffffff&textcolor=000000&linkcolor=2b85ca&width=300&avatar=0';
 key1='f1fb3d0d7ef1ee6c4a85b5a413d8adb6b6e59110';
 key2='7107fc90836f53ed1a6764840b68635cc24dfed4';
